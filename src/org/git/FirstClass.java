@@ -10,6 +10,11 @@ public class FirstClass {
 		System.out.println("Thank You");
 		System.out.println("Inserted new lines");
 System.out.println("Inserted again");
+
+int i=0;
+int j=10;
+int k=i+j;
+System.out.println(k);
 	}
 
 }
